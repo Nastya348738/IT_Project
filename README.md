@@ -55,10 +55,10 @@
 [Кондуит ИДМ-22](https://docs.google.com/spreadsheets/d/1ypxgDUpNsaAK5PH90dTfGKdtDnWaeEDWfupEbDokN6A/edit?usp=sharing)
 
 ## ✅ Landing Page: 
-[Тут будет ссылка на лендинг с самой игрой, причем, рабочей!](https://github.com/Allyxan/IT_Project)
+[Тут будет ссылка на лендинг с самой игрой, причем, рабочей!](https://github.com/Nastya348738/IT_Project) 
 
 ## ✅ Дополнительные материалы по проекту:
-* [Техническое задание на разработку программного программного продукта](https://github.com/Allyxan/IT_Project)
-* [Календарный график работ по разработке программного продукта](https://github.com/Allyxan/IT_Project)
-* [Техническая документация программного продукта](https://github.com/Allyxan/IT_Project)
-* [Акт сдачи-приемки программного продукта](https://github.com/Allyxan/IT_Project)
+* [Техническое задание на разработку программного программного продукта](https://github.com/Nastya348738/IT_Project)
+* [Календарный график работ по разработке программного продукта](https://github.com/Nastya348738/IT_Project)
+* [Техническая документация программного продукта](https://github.com/Nastya348738/IT_Project)
+* [Акт сдачи-приемки программного продукта](https://github.com/Nastya348738/IT_Project)

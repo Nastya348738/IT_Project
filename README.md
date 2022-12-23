@@ -54,8 +54,6 @@
 Распределение ролей также показано в Google-таблице:
 [Кондуит ИДМ-22](https://docs.google.com/spreadsheets/d/1ypxgDUpNsaAK5PH90dTfGKdtDnWaeEDWfupEbDokN6A/edit?usp=sharing)
 
-## ✅ Landing Page: 
-[Тут будет ссылка на лендинг с самой игрой.](https://github.com/Nastya348738/IT_Project) 
 
 ## ✅ Дополнительные материалы по проекту:
 * [Техническое задание на разработку программного программного продукта](https://github.com/Nastya348738/IT_Project)
